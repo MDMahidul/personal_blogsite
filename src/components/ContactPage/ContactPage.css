@@ -1,0 +1,52 @@
+.contact-card{
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+    border-radius: 8px;
+}
+
+button{
+    border: none;
+}
+.address-icon{
+    padding-right: 8px;
+}
+.form-card{
+    padding: 35px;
+}
+
+.sidebar-card{
+    background: #CEA350;
+}
+
+.sidebar-address{
+    padding: 25px;
+}
+
+.contact-page-icon{
+    margin-right: 15px;
+}
+.form-control:focus{
+box-shadow: none;
+}
+form label{
+    color: rgb(94, 93, 93);
+}
+@media only screen and (max-width:991px){
+  
+}
+@media only screen and (max-width:768px){
+   .contact-card{
+    width: 100%;
+   }
+   .form-card{
+    padding: 20px;
+   }
+   .sidebar-address{
+    padding: 30px 15px;
+   }
+   .address-icon{
+    padding-right: 3px;
+   }
+}

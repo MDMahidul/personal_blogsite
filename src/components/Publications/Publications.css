@@ -1,0 +1,28 @@
+.my-btn{
+    /* background: -webkit-gradient(linear, left top, right top, from(#17d396), to(#07f7f7)); */
+    background:#CEA350;
+    color: #fff;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 20px;
+    padding: 14px 22px;
+    text-align: center;
+    text-decoration: none;
+    transition-duration: 0.3s;
+}
+
+.my-btn:hover{
+    transform: scale(1.05);
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+.book-name{
+    text-decoration: none;
+    font-weight: 600;
+    color: #CEA350;
+}
+
+.publication-card{
+    border: none;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.10)!important;
+}

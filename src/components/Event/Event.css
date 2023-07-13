@@ -1,0 +1,25 @@
+.modal-header-no-border {
+    border-bottom: none;
+  }
+
+  .modal-footer-no-border{
+    border-top: none;
+    text-align: center;
+  }
+  @media only screen and (max-width:991px){
+    .modal-img img{
+        width: 80%;
+    }
+}
+@media only screen and (max-width:768px){
+    .modal-img img{
+        width: 80%;
+    }
+  }
+  
+  
+  
+  
+  
+  
+  

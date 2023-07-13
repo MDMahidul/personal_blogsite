@@ -1,0 +1,39 @@
+.carousel-control-next, .carousel-control-prev{
+    display: none;
+}
+.carousel-indicators{
+    display: none;
+}
+.car-logo{
+    width: 25%;
+    height: 100%;
+    margin-top: 20px;
+    object-fit: cover;
+}
+.carousel-item{
+    font-weight:  normal !important;
+}
+.organization-name{
+    font-size: 25px !important;
+    font-weight: 600 !important;
+}
+.banner-container{
+    padding-bottom: 25px !important;
+}
+.chairman-name{
+    font-size: 38px;
+    font-weight: 700;
+}
+@media only screen and (max-width:1400px){
+
+}
+
+@media only screen and (max-width:768px){
+    .chairman-name{
+        font-size: 30px;
+        font-weight: 700;
+    }
+    .organization-name{
+        font-size: 20px !important;
+    }
+ }

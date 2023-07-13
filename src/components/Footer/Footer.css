@@ -1,0 +1,42 @@
+.footer-basic {
+    padding:40px 0;
+    background: linear-gradient(241deg, #8e6827 12% 12%, #dbaf58 78% 78%)!important;
+    color:#fff;
+  }
+  
+
+  
+.social .footer-icon{
+    font-size:24px;
+    width:45px;
+    height:45px;
+    line-height:40px;
+    display:inline-block;
+    text-align:center;
+    border-radius:50%;
+    border:2px solid #fff;
+    margin:0 20px;
+    color:inherit;
+  }
+  
+  .footer-basic .copyright {
+    text-align:center;
+    font-size:13px;
+    color:#fff;
+  }
+  .footer-nav{
+    text-decoration: none !important;
+    color: #fff;
+    font-weight: 600;
+    transition: 0.1s;
+  }
+  .footer-nav:hover{
+    transform: scale(1.07);
+  }
+  .footer-icon:hover{
+    transform: scale(1.1) ;
+    background-color: #fff;
+    color: #CEA350;
+  }
+  
+  

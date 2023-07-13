@@ -1,0 +1,15 @@
+.vision-des{
+    font-size: 18px;
+    text-align: center;
+}
+.vision-des::before {
+    content: '"';
+    margin-right: 0.2em;
+    font-weight: bolder;
+  }
+  
+  .vision-des::after {
+    content: '"';
+    margin-left: 0.2em;
+    font-weight: bolder;
+  }

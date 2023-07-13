@@ -1,0 +1,46 @@
+.section-header{
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.about-card{
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+    border: none !important;
+}
+.about-container{
+    padding: 55px 0px;
+} 
+.about-title{
+    font-weight: 500;
+    font-size: 18px;
+}
+.about-des{
+    color: rgb(68, 65, 65);
+    font-size: 18px;
+}
+.text-part{
+    padding: 50px 0px 50px 70px ;
+}
+.image-part{
+    padding: 50px 50px ;
+}
+.image-part img{
+    width: 80%;
+}
+
+@media only screen and (max-width:991px){
+    .about-container{
+        padding: 10px 0px;
+    } 
+    .text-part{
+        padding: 20px 20px 20px 40px ;
+    }
+    .image-part{
+        padding: 50px 20px ;
+    }
+}
+
+@media only screen and (max-width:768px){
+    .about-container{
+        padding: 5px 0px;
+    } 
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "name": "কষ্টের সুখ",
+        "author": "মুশফিকুর রহমান মোহন",
+        "type":"রোমান্টিক কবিতা",
+        "publisher": "অন্বেষা প্রকাশন",
+        "date": "1st Edition, 2018",
+        "language": "বাংলা",
+        "image":"./books/1.webp"
+    },   {
+        "id":2,
+        "name": "স্মৃতির শ্রাবণ মেঘ",
+        "author": "মুশফিকুর রহমান মোহন",
+        "type":"উপন্যাস",
+        "publisher": "অন্বেষা প্রকাশন",
+        "date": "1st Edition, 2018",
+        "language": "বাংলা",
+        "image":"./books/4.webp"
+    },
+    {
+        "id":3,
+        "name": "কষ্টের রং",
+        "author": "মুশফিকুর রহমান মোহন",
+        "type":"রোমান্টিক কবিতা",
+        "publisher": "সময় প্রকাশন",
+        "date": "1st Edition, 2018",
+        "language": "বাংলা",
+        "image":"./books/2.webp"
+    },
+    {
+        "id":4,
+        "name": "অধরা-প্রত্যাশিত কষ্ট ",
+        "author": "মুশফিকুর রহমান মোহন",
+        "type":"রোমান্টিক কবিতা",
+        "publisher": "অনন্যা",
+        "date": "1st Edition, 2018",
+        "language": "বাংলা",
+        "image":"./books/3.webp"
+    }
+ 
+]

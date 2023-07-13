@@ -1,0 +1,14 @@
+.goup-btn{
+    box-shadow: 0 0 20px #CEA350;
+    background: -webkit-gradient(linear, left top, right top, from(#17d396), to(#07f7f7));
+    background: linear-gradient(241deg, #dbaf58 12% 12%, #8e6827 78% 78%);
+}
+
+.topbtn-pos{
+    position: fixed;
+    bottom: 2rem;
+    right: 1rem;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+}

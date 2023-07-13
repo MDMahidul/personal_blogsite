@@ -1,0 +1,11 @@
+.active{
+    color: #3b230f;
+    text-decoration: none;
+    font-weight: 700 !important;
+    
+}
+.default{
+    text-decoration: none !important;
+    color: #fff;
+    font-weight: 500;
+}
